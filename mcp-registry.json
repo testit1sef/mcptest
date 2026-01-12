@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "id": "github",
+      "name": "GitHub MCP Server",
+      "url": "https://api.githubcopilot.com/mcp"
+    },
+    {
+      "id": "figma",
+      "name": "Figma MCP Server",
+      "url": "https://mcp.figma.com"
+    }
+  ]
+}
